@@ -4,13 +4,13 @@ Um cassino simples feito em Python para rodar no terminal. O projeto foi criado 
 
 ## 🎮 Jogos disponíveis
 
-* 🎲 Dados
-* 🎰 Caça-níquel
-* 🎡 Roleta
+🎲 Dados  
+🎰 Caça-níquel  
+🎡 Roleta  
 
 ## ⚙️ Requisitos
 
-* Python 3 instalado
+Python 3 instalado
 
 ## ▶️ Como executar
 
@@ -28,9 +28,11 @@ O sistema funciona com um saldo inicial, onde o jogador pode fazer apostas e gan
 
 ## 🚀 Melhorias futuras
 
-* Sistema de login
-* Salvar dados em JSON
-* Novos jogos
+Sistema de login  
+Salvar dados em JSON  
+Novos jogos  
+
+(Em breve updates para a correção de erros e otimização)
 
 ## ⚠️ Aviso
 
