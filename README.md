@@ -1,6 +1,8 @@
 # 🎰 Cassino em Python
 
 Um cassino simples feito em Python para rodar no terminal. O projeto foi criado para treinar lógica de programação e uso de estruturas básicas da linguagem.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 ## 🎮 Jogos disponíveis
 
